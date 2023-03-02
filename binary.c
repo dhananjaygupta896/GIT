@@ -12,7 +12,7 @@ void binary(int a)
     {
         printf("%d", b[j]);
     }
-    printf("\n");
+    printf("HII");
 }
 int main()
 {
